@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+bin/
+obj/
+
+# Editor backup files
+*.swp
+*.bak
+
+# Temporary files
+*.tmp
+*.log
+
+# Sensitive files
+secrets.json
+api_key.txt
